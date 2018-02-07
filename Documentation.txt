@@ -1,0 +1,11 @@
+Language Used: Python
+
+Content:
+ BACKGROUND SUBTRACTION PDF FILE: contains details anlysis, implementation, and observations.
+ Background_Subtraction_GMM: implementation of Background subtraction using Gaussian Mixture Model.
+ Background_Subtraction_OpenCV:implementation of Background subtraction using OpenCV libraries.
+
+Sources Help:
+ Background Modeling using Mixture of Gaussians for Foreground
+ Detection - A Survey
+ T. Bouwmans, F. El Baf, B. Vachon 
