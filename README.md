@@ -1,2 +1,2 @@
 # Background-Substraction-using-GMM
-This include implementation of Background Substraction using Gaussian mixture model and and using opencv library.
+This include implementation of Background Substraction using Gaussian mixture model. For this, i followed the research paper of Thierry Bouwmans on Background Modelling. I have also implemented this using OpenCV library and then compared both of them. The algorithm of both method and comparison between them is shown in pdf attached with it. Both of the code is written in python.
